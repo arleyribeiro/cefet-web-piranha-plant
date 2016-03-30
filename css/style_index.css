@@ -4,16 +4,17 @@ body {
 	text-align: justify;
 }
 
-h1 {
+h1, h2 {
 	color:#38761d;
-	font-size: 28px;
 	font-family: "Times new roman";
 }
 
+h1 {
+	font-size: 28px;
+}
+
 h2 {
-	color:#38761d;	
 	font-size: 24px;
-	font-family: "Times new roman";
 }
 
 #jaula {	
